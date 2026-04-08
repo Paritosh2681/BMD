@@ -1,15 +1,3 @@
 {
-  "version": 2,
-  "public": ".",
-  "headers": [
-    {
-      "source": "/.*",
-      "headers": [
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=3600"
-        }
-      ]
-    }
-  ]
+  "version": 2
 }
